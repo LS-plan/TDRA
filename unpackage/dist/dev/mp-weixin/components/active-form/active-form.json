@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "f-checkbox-group": "/components/active-form/components/checkbox-group",
+    "f-checkbox": "/components/active-form/components/checkbox",
+    "f-radio-group": "/components/active-form/components/radio-group",
+    "f-radio": "/components/active-form/components/radio",
+    "f-select": "/components/active-form/components/select"
+  }
+}

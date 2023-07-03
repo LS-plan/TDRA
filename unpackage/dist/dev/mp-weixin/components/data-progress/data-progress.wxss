@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.paddingMiddle {
+  padding: 18rpx 10rpx;
+}
+.progress .title {
+  font-size: 28rpx;
+  width: 170rpx;
+  display: flex;
+  align-items: center;
+}
+.progress .body {
+  position: relative;
+  flex: 1;
+}
+.progress .body .number {
+  color: #fff;
+  position: absolute;
+  z-index: 2;
+  left: 26rpx;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  height: 44rpx;
+}
+.progress .body progress {
+  padding: 6rpx 0;
+}
+

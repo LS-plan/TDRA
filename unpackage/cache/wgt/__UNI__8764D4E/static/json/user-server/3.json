@@ -1,0 +1,36 @@
+{
+	"categories": [
+		"",		"",		"",		"",		"",
+		"",
+		""
+	],
+	"series": [
+		{
+			"name": "预测值",			"data": [				1850,				1660,				1760,				2360,				1560,				1970,				2570			],			"type": "line",
+			"style": "curve",
+			"addPoint": true,			"color": "#DF297D",
+			"unit":""
+		},
+		{
+			"name": "真实值",
+			"data": [
+				450,
+				260,
+				360,
+				560,
+				460,
+				170,
+				570
+			],
+			"type": "line",
+			"style": "curve",
+			"addPoint": true,
+			"color": "#ff9900",
+			"unit":""
+		}
+	],
+	"yAxis":[
+		{"calibration":true,"position":"left","min":0,"max":522222,"title":"","titleFontSize":12,"unit":"","tofix":0}
+	],
+	"targetAdd":"9%"
+}

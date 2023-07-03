@@ -1,0 +1,71 @@
+{
+  "pages": [
+    "pages/Login/Login",
+    "pages/index/index",
+    "pages/FAQ/FAQ",
+    "pages/student-information/student-information",
+    "pages/product/product",
+    "pages/testwebview/test",
+    "pages/set/set",
+    "pages/userinfo/userinfo",
+    "pages/cart/cart",
+    "pages/public/login",
+    "pages/user/user",
+    "pages/detail/detail",
+    "pages/order/order",
+    "pages/money/money",
+    "pages/order/createOrder",
+    "pages/address/address",
+    "pages/address/addressManage",
+    "pages/money/pay",
+    "pages/money/paySuccess",
+    "pages/notice/notice",
+    "pages/product/list",
+    "pages/datacenter/datacenter",
+    "pages/FAQ/Xiangxi/Xiangxi",
+    "pages/download/download",
+    "pages/appointment/appointment",
+    "pages/leader_change/leader_change",
+    "pages/Login/Login"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": " #40a2ed",
+    "backgroundColor": "#40a2ed"
+  },
+  "tabBar": {
+    "color": "#C0C4CC",
+    "selectedColor": "#00bfff",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tab-home.png",
+        "selectedIconPath": "static/tab-home-current.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/datacenter/datacenter",
+        "iconPath": "static/number-black.png",
+        "selectedIconPath": "static/number-blue.png",
+        "text": "数据"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "iconPath": "static/img/information.png",
+        "selectedIconPath": "static/img/information_flue.png",
+        "text": "学生信息"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/tab-my.png",
+        "selectedIconPath": "static/tab-my-current-blue.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

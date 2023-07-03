@@ -1,0 +1,13 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.content .subform {
+  margin: 30rpx;
+  padding: 20rpx 60rpx;
+  border-radius: 18rpx;
+  background-color: #E6E6E6;
+}
+

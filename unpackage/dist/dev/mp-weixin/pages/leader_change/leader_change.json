@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "信息变更",
+  "navigationBarBackgroundColor": "#40A2ED",
+  "usingComponents": {
+    "active-form": "/components/active-form/active-form"
+  }
+}

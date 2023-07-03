@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "信息展示",
+  "navigationBarBackgroundColor": "#40A2ED",
+  "usingComponents": {
+    "dropdown-screen": "/components/dropdown-screen/dropdown-screen",
+    "uni-search-bar": "/uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar",
+    "contact-card": "/components/contact-card/contact-card",
+    "ren-dropdown-filter": "/components/ren-dropdown-filter/ren-dropdown-filter"
+  }
+}

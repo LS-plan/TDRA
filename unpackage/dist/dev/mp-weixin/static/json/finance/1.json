@@ -1,0 +1,143 @@
+
+{
+	"sixiang":{
+		 "series": [
+		        {
+		            "data": [
+		                {
+		                    "name": "活动获取",
+		                    "value": 50
+		                },
+		                {
+		                    "name": "标准课程",
+		                    "value": 8
+		                },
+		                {
+		                    "name": "转换学时认定",
+		                    "value": 40
+		                },
+		                {
+		                    "name": "学生干部学时认定",
+		                    "value": 20
+		                },
+		                {
+		                    "name": "其他",
+		                    "value": 3
+		                }
+		            ]
+		        }
+		    ]
+	},
+	"wenti":{
+		 "series": [
+		        {
+		            "data": [
+		                {
+		                    "name": "活动获取",
+		                    "value": 50
+		                },
+		                {
+		                    "name": "标准课程",
+		                    "value": 48
+		                },
+		                {
+		                    "name": "转换学时认定",
+		                    "value": 22
+		                },
+		                {
+		                    "name": "学生干部学时认定",
+		                    "value": 10
+		                },
+		                {
+		                    "name": "其他",
+		                    "value": 8
+		                }
+		            ]
+		        }
+		    ]
+	},
+	"chuangxin":{
+		 "series": [
+		        {
+		            "data": [
+		                {
+		                    "name": "活动获取",
+		                    "value": 50
+		                },
+		                {
+		                    "name": "标准课程",
+		                    "value": 46
+		                },
+		                {
+		                    "name": "转换学时认定",
+		                    "value": 62
+		                },
+		                {
+		                    "name": "学生干部学时认定",
+		                    "value": 22
+		                },
+		                {
+		                    "name": "其他",
+		                    "value": 10
+		                }
+		            ]
+		        }
+		    ]
+	},
+	"shijian":{
+		 "series": [
+		        {
+		            "data": [
+		                {
+		                    "name": "活动获取",
+		                    "value": 70
+		                },
+		                {
+		                    "name": "标准课程",
+		                    "value": 45
+		                },
+		                {
+		                    "name": "转换学时认定",
+		                    "value": 18
+		                },
+		                {
+		                    "name": "学生干部学时认定",
+		                    "value": 32
+		                },
+		                {
+		                    "name": "其他",
+		                    "value": 12
+		                }
+		            ]
+		        }
+		    ]
+	},
+	"gongzuo":{
+		 "series": [
+		        {
+		            "data": [
+		                {
+		                    "name": "活动获取",
+		                    "value": 6
+		                },
+		                {
+		                    "name": "标准课程",
+		                    "value": 0
+		                },
+		                {
+		                    "name": "转换学时认定",
+		                    "value": 20
+		                },
+		                {
+		                    "name": "学生干部学时认定",
+		                    "value": 60
+		                },
+		                {
+		                    "name": "其他",
+		                    "value": 2
+		                }
+		            ]
+		        }
+		    ]
+	}
+}

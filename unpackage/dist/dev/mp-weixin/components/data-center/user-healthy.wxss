@@ -1,0 +1,56 @@
+.content.data-v-25ca40a6 {
+  padding-top: 0rpx;
+}
+.content .firend_operate.data-v-25ca40a6 {
+  padding: 0 10rpx;
+}
+.content .friend_operate.data-v-25ca40a6 {
+  padding: 30rpx 20rpx;
+}
+.content .friend_operate .title.data-v-25ca40a6 {
+  text-align: left;
+  margin-bottom: 30rpx;
+  font-size: 40rpx;
+}
+.content .friend_operate .trend_title.data-v-25ca40a6 {
+  text-align: right;
+  font-size: 22rpx;
+  color: #ff9900;
+  margin-top: 20rpx;
+}
+.split_line.data-v-25ca40a6 {
+  width: 100%;
+  height: 20rpx;
+  background-color: #F0F0F0;
+}
+.emp.data-v-25ca40a6 {
+  height: 220rpx;
+  width: 100%;
+}
+.right_btn.data-v-25ca40a6 {
+  float: right;
+  display: flex;
+  color: #ccc;
+  font-size: 22rpx;
+}
+.right_btn view.data-v-25ca40a6 {
+  line-height: 50rpx;
+  height: 50rpx;
+  margin: 0 20rpx;
+}
+.right_btn .active_btn.data-v-25ca40a6 {
+  padding: 0rpx 20rpx;
+  border: 1px solid #ccc;
+  border-radius: 40rpx;
+}
+.progress.data-v-25ca40a6 {
+  flex-direction: row;
+  display: flex;
+  flex: 1;
+}
+.text-black.data-v-25ca40a6 {
+  font-size: 32rpx;
+  margin-right: 10rpx;
+  margin-bottom: 16rpx;
+}
+

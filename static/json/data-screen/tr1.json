@@ -1,0 +1,39 @@
+{
+    "series": [
+        {
+            "data": [
+                {
+                    "name": "思想成长",
+                    "value": 959249,
+					"legendShape" : "rect"
+                },
+                {
+                    "name": "文体发展",
+                    "value": 875562,
+					"legendShape" : "rect"
+                },
+                {
+                    "name": "创新创业",
+                    "value": 576213,
+					"legendShape" : "rect"
+                },
+                {
+                    "name": "社会实践",
+                    "value": 360240,
+					"legendShape" : "rect"
+                },
+				{
+				    "name": "志愿服务",
+				    "value": 235401,
+					"legendShape" : "rect"
+				},
+                {
+                    "name": "工作履历与技能培训",
+                    "value": 175051,
+					"legendShape" : "rect"
+                }
+            ]
+			
+        }
+    ]
+}

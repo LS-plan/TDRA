@@ -1,0 +1,23 @@
+[
+	{
+		
+		"name":"温度",
+		"num": 0,
+		"width":"",
+		"background":"#FFBE68"
+	
+	},
+	{
+		"name":"湿度",
+		"num": 0,
+		"width":"",
+		"background":"#0FEBE1"
+		
+	},
+	{
+		"name":"含烃量",
+		"num": 0,
+		"width":"",
+		"background":"#BF8DFC"
+	}
+]

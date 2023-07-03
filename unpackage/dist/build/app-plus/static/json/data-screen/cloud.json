@@ -1,0 +1,36 @@
+{
+    "type": "word",
+    "canvasId": "",
+    "canvas2d": false,
+    "background": "none",
+    "animation": true,
+    "timing": "easeOut",
+    "duration": 1000,
+    "color": [
+        "#1890FF",
+        "#91CB74",
+        "#FAC858",
+        "#EE6666",
+        "#73C0DE",
+        "#3CA272",
+        "#FC8452",
+        "#9A60B4",
+        "#ea7ccc"
+    ],
+    "rotate": false,
+    "errorReload": true,
+    "fontSize": 13,
+    "fontColor": "#666666",
+    "enableScroll": false,
+    "touchMoveLimit": 60,
+    "enableMarkLine": false,
+    "dataLabel": false,
+    "dataPointShape": false,
+    "dataPointShapeType": "solid",
+    "extra": {
+        "word": {
+            "type": "normal",
+            "autoColors": false
+        }
+    }
+}

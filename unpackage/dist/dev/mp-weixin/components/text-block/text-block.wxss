@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.text_block {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.text_block .marginRight {
+  margin-right: 36rpx !important;
+}
+.text_block .view_100 {
+  width: 100%;
+}
+.text_block .CPT_DYBG {
+  overflow: hidden;
+  position: relative;
+}
+.text_block .kind {
+  width: 24%;
+  padding: 10rpx;
+  margin-bottom: 40rpx;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  border-radius: 16rpx;
+  margin-left: 16rpx;
+  box-shadow: -4px 4px 4px #ccc;
+  position: relative;
+}
+.text_block .kind_one {
+  border-radius: 10rpx;
+}
+.text_block .kind_two {
+  border-radius: 10rpx;
+}
+.text_block .kind_three {
+  border-radius: 20rpx;
+  width: 200rpx;
+  margin: 0 auto;
+  margin-bottom: 10rpx;
+}
+.text_block .kind_three .three_3 {
+  display: flex;
+  justify-content: space-around;
+}
+.text_block .kind_four {
+  border-radius: 10rpx;
+}
+.text_block .kind_four .four_3 {
+  display: flex;
+}
+.text_block .kind_four .four_3 ._li {
+  list-style-type: none;
+}
+.text_block .kind_four .four_3 .icon {
+  margin-top: -8rpx;
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8);
+}
+.text_block .kind_five {
+  border-radius: 20rpx;
+}
+.text_block .kind_five .five_3 view {
+  width: 100%;
+}
+

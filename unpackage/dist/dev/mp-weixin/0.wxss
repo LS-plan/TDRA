@@ -1,0 +1,115 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+._li {
+  list-style-type: none;
+}
+.dropdown-item__content {
+  z-index: 10 !important;
+}
+.dropdown-item {
+  width: 100%;
+  flex: 1;
+  position: relative;
+}
+.dropdown-item__selected {
+  position: relative;
+  padding: 10rpx 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+.dropdown-item__selected .selected__name {
+  font-size: 28rpx;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.dropdown-item__selected .selected__icon {
+  margin-left: 20rpx;
+}
+.dropdown-item__selected .selected__icon.down {
+  transition: -webkit-transform .3s;
+  transition: transform .3s;
+  transition: transform .3s, -webkit-transform .3s;
+  -webkit-transform: rotateZ(0);
+          transform: rotateZ(0);
+}
+.dropdown-item__selected .selected__icon.up {
+  transition: -webkit-transform .3s;
+  transition: transform .3s;
+  transition: transform .3s, -webkit-transform .3s;
+  -webkit-transform: rotateZ(-180deg);
+          transform: rotateZ(-180deg);
+}
+.dropdown-item__left {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.dropdown-item__right {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+.dropdown-item__content {
+  position: fixed;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+}
+.dropdown-item__content .list {
+  max-height: 400px;
+  text-align: center;
+  overflow-y: auto;
+  position: absolute;
+  z-index: 1200;
+  background: #fff;
+  -webkit-transform: translateY(-100%);
+          transform: translateY(-100%);
+  transition: all .3s;
+}
+.dropdown-item__content .list.show {
+  -webkit-transform: translateY(0);
+          transform: translateY(0);
+}
+.dropdown-item__content .list__option {
+  font-size: 30rpx;
+  padding: 18rpx;
+  display: flex;
+  justify-content: space-between;
+  color: #303133;
+}
+.dropdown-item__content .list__option:not(:last-child) {
+  border-bottom: 1rpx solid #DDDDDD;
+}
+.dropdown-item__content .dropdown-mask {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  transition: all .3s;
+  z-index: 1100;
+}
+.dropdown-item__content .dropdown-mask.show {
+  background: rgba(0, 0, 0, 0.5);
+}
+.dropdown-item:not(:last-child):after {
+  content: ' ';
+  position: absolute;
+  width: 2rpx;
+  top: 36rpx;
+  bottom: 36rpx;
+  right: 0;
+  background: #c8c7cc;
+}
+

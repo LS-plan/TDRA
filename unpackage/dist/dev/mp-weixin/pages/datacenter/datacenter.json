@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "pageOrientation": "auto",
+  "usingComponents": {
+    "wuc-tab": "/components/wuc-tab/wuc-tab",
+    "wechat": "/components/data-center/wechat",
+    "user-operate": "/components/data-center/user-operate",
+    "user-healthy": "/components/data-center/user-healthy",
+    "user-server": "/components/data-center/user-server"
+  }
+}

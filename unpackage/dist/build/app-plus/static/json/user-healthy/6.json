@@ -1,0 +1,74 @@
+[
+	{
+		"kind":3,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"温度(℃)","value":"","colortext":"#fff","colorvalue":"","size":"45rpx"},
+			{"text":"","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"2922","colortext":"","colorvalue":"#fff","size":"45rpx"},
+			{"text":"","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	},
+	{
+		"kind":3,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"湿度","value":"","colortext":"#fff","colorvalue":"","size":"45rpx"},
+			{"text":"","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"2015","colortext":"","colorvalue":"#fff","size":"45rpx"},
+			{"text":"","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	},
+	{
+		"kind":3,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"含烃量","value":"","colortext":"#fff","colorvalue":"","size":"45rpx"},
+			{"text":"","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"1204","colortext":"","colorvalue":"#fff","size":"45rpx"},
+			{"text":"","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	},
+	{
+		"kind":3,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"是否有人","value":"","colortext":"#fff","colorvalue":"","size":"45rpx"},
+			{"text":"","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"1025","colortext":"","colorvalue":"#fff","size":"45rpx"},
+			{"text":"","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	},
+	{
+		"kind":3,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"是否有光","value":"","colortext":"#fff","colorvalue":"","size":"45rpx"},
+			{"text":"","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"1014","colortext":"","colorvalue":"#fff","size":"45rpx"},
+			{"text":"","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	},
+	{
+		"kind":3,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"预测产量","value":"","colortext":"#fff","colorvalue":"","size":"45rpx"},
+			{"text":"","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"1014","colortext":"","colorvalue":"#fff","size":"45rpx"},
+			{"text":"","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	}
+]

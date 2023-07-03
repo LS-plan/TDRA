@@ -1,0 +1,113 @@
+<template>
+	
+	<view>
+		
+		<view>
+			<uni-list>
+			   <uni-list-item title="为什么我的诚信值被扣除?" note="1.诚信值初始值为10，未在规定时间签到、签退均会扣1诚信值，活动开始前两小时内取消报名会扣除1诚信值。
+2.打卡类活动未打卡或未达到打卡要求会扣除诚值。
+3.点击诚信值可查看诚信值扣除的原因。"></uni-list-item>
+			</uni-list>
+		</view>
+		
+		
+		<view>
+			<uni-list>
+			   <uni-list-item title="为什么我的学时与学分不对应?" note="每个学期每类参与学时最多获得20个，超过20个仅记录不转化为学分。转换学时无.上限。如果发现学时总数与学分不对应的情况，可能是某个学期参与学时超过.上限，导致系统仅记录学时不转化为学分。"></uni-list-item>
+			</uni-list>
+		</view>
+		
+		<view>
+			<uni-list>
+			   <uni-list-item title="为什么我的诚信值不增长？" 
+			   note="诚信值只有在小于6时才会恢复周后诚信值会自动恢复4个，诚信值6-10时不发生变化。">
+			   </uni-list-item>
+			</uni-list>
+		</view>
+		
+		<view>
+			<uni-list>
+			   <uni-list-item title="为什么我的诚信值是负数？" 
+			   note="诚信值可以扣除到6以下甚至负数，原因是参与太多活动未签到、签退或打卡，并非程序故障，请认真参与活动。">
+			   </uni-list-item>
+			</uni-list>
+		</view>
+		
+		<view>
+			<uni-list>
+			   <uni-list-item title="为什么无法报名参与活动？" 
+			   note="1.不能同时参加两个有时间重叠的活动，系统会发出自动提醒。
+					2.若活动还有剩余名额却无法报名，可能是因为普通名额已满，仅剩邀请码报名名额。
+					3.部分活动报名需要审核，请及时查看是否报名成功，不要忘记参与活动。未成功报名可能未通过审核。
+					4.有些活动有参与条件限制，如仅允许本部落人员参与、仅允许2020级参与、仅允许石工学院学生参与等，不属于该部落、年级或院部无法报名。
+					5.当诚信值＜6时将无法再参加活动。">
+			   </uni-list-item>
+			</uni-list>
+		</view>
+		
+		<view>
+			<uni-list>
+			   <uni-list-item title="为什么石光晚上总是进不去？" 
+			   note="石光也需要休息维护哦，为了网络安全，每天零点开始到七点封网，早上七点后结束后台清空缓存再访问。
+若零点之后需要访问，需连接校园网，连接校园网后，先结束之前的处于外网条件下开启的小程序即清空缓存，再重新打开即可。如果您要在零点抢活动请使用校园网。
+">
+			   </uni-list-item>
+			</uni-list>
+		</view>
+		
+		<view>
+			<uni-list>
+			   <uni-list-item title="导入学时需要活动参与者如何操作？" 
+			   note="导入学时工作一般由活动组织方统一进行，无需个人操作。">
+			   </uni-list-item>
+			</uni-list>
+		</view>
+		
+
+
+
+	</view>
+	
+	
+		
+</template>
+
+<script>
+	export default {
+		data() {
+			return {
+			}
+		},
+		methods: {
+			
+			
+		}
+	}
+</script>
+
+<style>
+	swiper{
+		width: 90%;
+		margin: auto;
+		
+	}
+	.media-item-line {
+		position: absolute;
+		left: 15px;
+		right: 15px;
+		bottom: 0;
+		height: 1px;
+		background-color: #ebebeb;
+	}
+	
+	.news-lists{
+		display: flex;
+	}
+	.news-lists text{
+		margin-left: 10px;
+		margin-top: 15px;
+		font-size: 20px;
+	}
+
+	 
+</style>

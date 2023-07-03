@@ -1,0 +1,55 @@
+
+._div,
+scroll-view,
+swiper {
+	box-sizing: border-box;
+}
+.wuc-tab {
+    white-space: nowrap;
+}
+.wuc-tab-item {
+    height: 70rpx;
+    display: inline-block;
+    line-height: 70rpx;
+    margin: 0 10rpx;
+    padding: 0 20rpx;
+}
+.wuc-tab-item.cur {
+	color: #40A2ED;
+	background-color: #fff;
+}
+.wuc-tab.fixed {
+	position: fixed;
+	width: 100%;
+	top: 0;
+	z-index: 1024;
+	box-shadow: 0 1rpx 6rpx rgba(0, 0, 0, 0.1);
+}
+.flex {
+    display: flex;
+}
+.text-center {
+    text-align: center;
+}
+.flex-sub {
+    flex: 1;
+}
+.text-blue{
+  color:#40A2ED;
+}
+.text-white{
+  color:#ffffff;
+}
+.bg-white{
+    background-color: #ffffff;
+}
+.bg-blue{
+    background-color: #40A2ED;
+}
+.text-orange{
+  color: #f37b1d
+}
+.text-xl {
+	font-size: 36rpx;
+}
+

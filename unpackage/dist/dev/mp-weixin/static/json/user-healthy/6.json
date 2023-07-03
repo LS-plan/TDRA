@@ -1,0 +1,62 @@
+[
+	{
+		"kind":3,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"思想成长","value":"","colortext":"#fff","colorvalue":"","size":"35rpx"},
+			{"text":"课程总数","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"2322","colortext":"","colorvalue":"#fff","size":"35rpx"},
+			{"text":"参与人次","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"304132","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	},
+	{
+		"kind":3,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"文体发展","value":"","colortext":"#fff","colorvalue":"","size":"35rpx"},
+			{"text":"课程总数","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"1415","colortext":"","colorvalue":"#fff","size":"35rpx"},
+			{"text":"参与人次","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"317840","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	},
+	{
+		"kind":3,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"创新创业","value":"","colortext":"#fff","colorvalue":"","size":"35rpx"},
+			{"text":"课程总数","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"604","colortext":"","colorvalue":"#fff","size":"35rpx"},
+			{"text":"参与人次","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"181109","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	},
+	{
+		"kind":3,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"社会与志愿","value":"","colortext":"#fff","colorvalue":"","size":"35rpx"},
+			{"text":"课程总数","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"425","colortext":"","colorvalue":"#fff","size":"35rpx"},
+			{"text":"参与人次","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"47650","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	},
+	{
+		"kind":3,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"工作履历","value":"","colortext":"#fff","colorvalue":"","size":"35rpx"},
+			{"text":"课程总数","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"255","colortext":"","colorvalue":"#fff","size":"35rpx"},
+			{"text":"参与人次","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"82316","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	}
+]

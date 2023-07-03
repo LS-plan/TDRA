@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "学时导入预约",
+  "navigationBarBackgroundColor": "#40A2ED",
+  "usingComponents": {
+    "active-form": "/components/active-form/active-form"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-line-progress": "/uni_modules/uview-ui/components/u-line-progress/u-line-progress",
+    "qiun-data-charts": "/uni_modules/qiun-data-charts/components/qiun-data-charts/qiun-data-charts",
+    "data-progress": "/components/data-progress/data-progress",
+    "senior-table": "/components/data-table/senior-table"
+  }
+}

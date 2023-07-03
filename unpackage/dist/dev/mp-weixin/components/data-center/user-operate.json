@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "text-block": "/components/text-block/text-block",
+    "qiun-data-charts": "/uni_modules/qiun-data-charts/components/qiun-data-charts/qiun-data-charts",
+    "data-progress": "/components/data-progress/data-progress",
+    "senior-table": "/components/data-table/senior-table"
+  }
+}

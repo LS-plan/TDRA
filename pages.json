@@ -1,0 +1,41 @@
+{
+	"pages": [
+		{
+		    "path" : "pages/Login/Login",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle":"custom",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+
+		{
+		    "path" : "pages/datacenter/datacenter",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle":"custom",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+    ],
+	
+	
+	"globalStyle": {
+		"navigationBarTextStyle":"#ffffff",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": " #40a2ed",
+		"backgroundColor": "#40a2ed"
+		
+	},
+	"tabBar": {
+		"color": "#C0C4CC",
+		"selectedColor": "#00bfff",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [
+			
+		]
+	}
+}

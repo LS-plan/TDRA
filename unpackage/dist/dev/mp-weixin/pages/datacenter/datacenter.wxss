@@ -1,0 +1,142 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+page,
+page {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+._li {
+  list-style-type: none;
+}
+.window {
+  height: 100vh;
+  overflow: hidden;
+}
+.window .topLine {
+  background-color: #40A2ED;
+  width: 100%;
+}
+.window scroll-view {
+  box-sizing: border-box;
+}
+.window .swiper {
+  box-sizing: border-box;
+}
+.window .nav {
+  background-image: url(http://photo.gdbjyy.cn/image/BCAI/top_bg.jpg);
+  background-size: 100% 100%;
+  height: 70rpx;
+}
+.window .nav .back {
+  font-size: 54rpx;
+  padding: 20rpx 14rpx 15rpx 14rpx;
+  color: #fff;
+}
+.window .nav .title {
+  color: #fff;
+  font-size: 34rpx;
+  flex: 1;
+  overflow: auto;
+  text-align: center;
+  margin-top: 10rpx;
+  padding: 10rpx 100rpx;
+}
+.window .nav .hidden {
+  visibility: hidden;
+}
+.window .head {
+  padding: 0 16rpx 14rpx 16rpx;
+  color: #fff;
+  background-color: #40A2ED;
+  justify-content: space-between;
+  font-size: 26rpx !important;
+}
+.window .head .calendar_drag {
+  width: 340rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.window .head .calendar_drag .calendar_name {
+  margin-right: 10rpx;
+}
+.window .head .calendar_drag .icon-calendar {
+  font-size: 26rpx;
+  margin-top: 4rpx;
+}
+.window .data_body {
+  overflow: auto;
+  text-align: center;
+  color: #333333;
+  background-repeat: repeat;
+  background-color: #ffffff;
+  position: relative;
+}
+.window .data_body .item {
+  padding: 0 20rpx;
+  margin-bottom: 20rpx;
+}
+.window .data_body .item .name {
+  font-weight: 600;
+  font-size: 36rpx;
+}
+.window .data_body .item .operate view {
+  padding: 5rpx 12rpx;
+  color: #fff;
+}
+.window .data_body .item .operate .bg-blue {
+  background-color: #40A2ED;
+}
+.window .data_body .item .operate .bg-yellow {
+  background-color: #FFC300;
+}
+.window .data_body .item .tip {
+  margin-bottom: 30rpx;
+}
+.window .data_body .item .tip .update {
+  color: #C4100A;
+  margin-left: auto;
+  font-size: 30rpx;
+}
+.window .data_body .cry {
+  font-size: 96rpx;
+  margin-bottom: 10rpx;
+}
+.water-mark-mask {
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  z-index: 1000;
+  justify-content: space-between;
+  pointer-events: none;
+  flex: 1;
+  overflow: hidden;
+}
+.water-mark-mask text {
+  width: 50%;
+  color: #909399;
+  opacity: 0.25;
+  -webkit-transform: rotate(-15deg);
+          transform: rotate(-15deg);
+}
+.histogram {
+  height: 100%;
+  width: 100%;
+}
+.histogram canvas {
+  margin-top: 40rpx;
+}
+.row_align_center {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+

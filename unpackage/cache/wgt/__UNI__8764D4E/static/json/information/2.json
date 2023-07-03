@@ -1,0 +1,62 @@
+[
+	{
+		"series": [{
+			"color": "#fff",
+			"data": 1,
+			"precent":"100%",
+			"index": 0,
+			"legendShape": "circle",
+			"name": "思想成长",
+			"pointShape": "circle",
+			"show": true,
+			"type": "arcbar",
+			"value":"2.9",
+			"backgroundColor":"#00AEF9"
+		}]
+	},
+	{
+		"series": [{
+			"color": "#fff",
+			"data": 1,
+			"precent":"100%",
+			"index": 0,
+			"legendShape": "circle",
+			"name": "文体发展",
+			"pointShape": "circle",
+			"show": true,
+			"type": "arcbar",
+			"value":"3.6",
+			"backgroundColor":"#F55676"
+		}]
+	},
+	{
+		"series": [{
+			"color": "#fff",
+			"data": 1,
+			"precent":"100%",
+			"index": 0,
+			"legendShape": "circle",
+			"name": "创新创业",
+			"pointShape": "circle",
+			"show": true,
+			"type": "arcbar",
+			"value":"2.4",
+			"backgroundColor":"#FAB215"
+		}]
+	},
+	{
+		"series": [{
+			"color": "#fff",
+			"data": 1,
+			"precent":"100%",
+			"index": 0,
+			"legendShape": "circle",
+			"name": "社会实践",
+			"pointShape": "circle",
+			"show": true,
+			"type": "arcbar",
+			"value":"2.6",
+			"backgroundColor":"#2EC693"
+		}]
+	}
+]

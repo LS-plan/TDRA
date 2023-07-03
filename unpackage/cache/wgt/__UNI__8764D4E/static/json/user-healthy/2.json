@@ -1,0 +1,50 @@
+[
+	{
+		"kind":1,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"思想成长","value":"","colortext":"#fff","colorvalue":"","size":"35rpx"},
+			{"text":"课程总数","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"2322","colortext":"","colorvalue":"#fff","size":"35rpx"},
+			{"text":"参与人次","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"304132","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	},
+	{
+		"kind":1,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"文体发展","value":"","colortext":"#fff","colorvalue":"","size":"35rpx"},
+			{"text":"课程总数","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"2322","colortext":"","colorvalue":"#fff","size":"35rpx"},
+			{"text":"参与人次","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"304132","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	},
+	{
+		"kind":1,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"思想成长","value":"","colortext":"#fff","colorvalue":"","size":"35rpx"},
+			{"text":"课程总数","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"2322","colortext":"","colorvalue":"#fff","size":"35rpx"},
+			{"text":"参与人次","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"304132","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	},
+	{
+		"kind":1,
+		"background":["#B678FD","#4A64F9"],
+		"content":[
+			{"text":"思想成长","value":"","colortext":"#fff","colorvalue":"","size":"35rpx"},
+			{"text":"课程总数","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"2322","colortext":"","colorvalue":"#fff","size":"35rpx"},
+			{"text":"参与人次","value":"","colortext":"#fff","colorvalue":"","size":"24rpx"},
+			{"text":"","value":"304132","colortext":"","colorvalue":"#fff","size":"35rpx"}
+			
+		]
+	}
+]

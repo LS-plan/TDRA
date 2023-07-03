@@ -1,0 +1,83 @@
+{
+	"categories": [
+		"思",
+		"文",
+		"创",
+		"社",
+		"工"
+	],
+	"series": [{
+			"name": "发布学时总数",
+			"data": [{
+					"value": 65.3,
+					"color": "#24ABFD"
+				},
+				{
+					"value": 61.8,
+					"color": "#24ABFD"
+				},
+				{
+					"value": 43.3,
+					"color": "#24ABFD"
+				},
+				{
+					"value": 13.3,
+					"color": "#24ABFD"
+				},
+				{
+					"value": 18,
+					"color": "#24ABFD"
+				}
+			],
+			"type": "column",
+			"color": "#24ABFD",
+			"unit": "",
+			"textNoShow": false
+		},
+		{
+				"name": "获得学时总数",
+				"data": [{
+						"value": 25.8,
+						"color": "#00ff00"
+					},
+					{
+						"value": 19.1,
+						"color": "#00ff00"
+					},
+					{
+						"value": 24.3,
+						"color": "#00ff00"
+					},
+					{
+						"value": 3.9,
+						"color": "#00ff00"
+					},
+					{
+						"value": 3.8,
+						"color": "#00ff00"
+					}
+				],
+				"type": "column",
+				"color": "#00ff00",
+				"unit": "",
+				"textNoShow":false
+				
+			},
+		{
+			"name": "参与率",
+			"data": [
+				49.66,
+				46.79,
+				55.99,
+				56.18,
+				49.73
+			],
+			"type": "line",
+			"addPoint": true,
+			"color": "#DF297D",
+			"unit": "%",
+			"index": 1
+		}
+	]
+	
+}
